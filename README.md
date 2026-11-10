@@ -1,3 +1,12 @@
+---
+project:
+  id: shut-the-box-ai
+  name: Shut the Box AI
+  status: feature-complete
+  tags: [game, mathematics, probability, AI]
+  priority: medium
+  next_action: None
+---
 # 🎲 Shut the Box Showdown: You, Robots & Super Smart AI! 🤖🧠
 
 Hey, math whizzes and future game designers! 👋 Get ready to play "Shut the Box," a classic game of dice and strategy! But here's the cool part: you can play it, watch different robot players try their luck, AND even see a super-duper smart computer brain learn from *all* their games! 🤯
